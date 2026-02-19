@@ -1,0 +1,4 @@
+reconciliation_status,records_count,percentage_of_total
+Matched,85,85.00
+Missing_in_back_BO,10,10.00
+Quantity_Mismatch,5,5.00
