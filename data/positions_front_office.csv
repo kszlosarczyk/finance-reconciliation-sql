@@ -1,1 +1,3 @@
-
+trade_id,instrument,quantity,trade_date,system
+T001,AAPL,100,2024-01-10,FO
+T002,MSFT,200,2024-01-10,FO
