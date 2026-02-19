@@ -1,4 +1,4 @@
-trade_id;instrument;fo_quantity;bo_quantity;quantity_diff;reconciliation_status
+trade_id,instrument,fo_quantity,bo_quantity,quantity_diff,reconciliation_status
 T001;AAPL;100;100;0;Matched
 T002;MSFT;200;200;0;Matched
 T003;GOOGL;150;150;0;Matched
